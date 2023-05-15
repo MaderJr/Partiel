@@ -1,0 +1,17 @@
+#enter{
+    background-color: gray;
+    display: flex;
+    padding: 50%;
+}
+
+.row {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        align-self: stretch;
+}
+
+.card{
+    justify-content: center;
+    display: flex;
+}
